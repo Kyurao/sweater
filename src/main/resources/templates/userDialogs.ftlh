@@ -1,5 +1,5 @@
-<#import "parts/common.ftl" as c>
-<#include "parts/security.ftl">
+<#import "parts/common.ftlh" as c>
+<#include "parts/security.ftlh">
 
 <@c.page>
 <h5>Hey, <strong>${name}</strong>, it's your dialogs!</h5>
@@ -22,6 +22,6 @@
     <div class="alert alert-success" align="center" role="alert">
         No dialogs!
     </div>
-        <#include "parts/usersList.ftl">
+        <#include "parts/usersList.ftlh">
     </#list>
 </@c.page>

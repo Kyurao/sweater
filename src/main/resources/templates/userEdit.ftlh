@@ -1,4 +1,4 @@
-<#import "parts/common.ftl" as c>
+<#import "parts/common.ftlh" as c>
 
 <@c.page>
     <img class="mx-3 my-2 rounded-circle" src="/img/${user.avatarPhoto}" width="60" height="60" alt="">

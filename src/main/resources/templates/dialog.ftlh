@@ -1,5 +1,5 @@
-<#import "parts/common.ftl" as c>
-<#include "parts/security.ftl">
+<#import "parts/common.ftlh" as c>
+<#include "parts/security.ftlh">
 
 <@c.page>
 <h5>Hey, ${name}, it's your dialog!</h5>

@@ -1,5 +1,5 @@
-<#import "parts/common.ftl" as c>
+<#import "parts/common.ftlh" as c>
 
 <@c.page>
-    <#include "parts/usersList.ftl" />
+    <#include "parts/usersList.ftlh" />
 </@c.page>

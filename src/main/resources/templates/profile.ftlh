@@ -1,5 +1,5 @@
-<#import "parts/common.ftl" as c>
-<#include "parts/security.ftl">
+<#import "parts/common.ftlh" as c>
+<#include "parts/security.ftlh">
 
 <@c.page>
 <img class="mx-3 my-2 rounded-circle" src="/img/${photo}" width="60" height="60" alt="">
