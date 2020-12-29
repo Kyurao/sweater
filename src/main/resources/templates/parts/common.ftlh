@@ -11,6 +11,7 @@
     <script src="/webjars/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="/webjars/bootstrap/4.5.3/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="/webjars/bootstrap/4.5.3/css/bootstrap.min.css"/>
+    <link rel="icon" type="image/png" href="/static/favicon.ico"/>
 </head>
 
 <body>
